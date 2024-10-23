@@ -6,7 +6,7 @@ function App() {
     <div>
     <h1> tic </h1>
       <TicTacToe  />
-    </div>
+    </div> 
   );
 }
 
