@@ -4,6 +4,7 @@ import TicTacToe from './Components/TicTacToe/TicTacToe';
 function App() {
   return (
     <div>
+    <h1> tic </h1>
       <TicTacToe />
     </div>
   );
