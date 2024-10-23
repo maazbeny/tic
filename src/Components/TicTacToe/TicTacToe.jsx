@@ -69,7 +69,7 @@ const TicTacToe = () => {
         }
         else {
             titleRef.current.innerHTML = `Congratulations: <img src=${circle_icon} alt="circle icon"/> Wins`
-        }
+        }  
 
     }
     const reset = () => {
