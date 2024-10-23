@@ -95,7 +95,7 @@ const TicTacToe = () => {
                     <div className="boxes" ref={box5} onClick={(e) => { toggle(e, 4) }}></div>
                     <div className="boxes" ref={box6} onClick={(e) => { toggle(e, 5) }}></div>
                 </div>
-                <div className="row3">
+                <div className="row3"> 
                     <div className="boxes" ref={box7} onClick={(e) => { toggle(e, 6) }}></div>
                     <div className="boxes" ref={box8} onClick={(e) => { toggle(e, 7) }}></div>
                     <div className="boxes" ref={box9} onClick={(e) => { toggle(e, 8) }}></div>
